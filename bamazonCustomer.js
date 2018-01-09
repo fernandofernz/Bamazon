@@ -9,7 +9,7 @@ var connection = mysql.createConnection({
 	user: "root",
 
 	// Your password
-	password: "fuchibabe13",
+	password: "",
 	database: "bamazon"
 });
 //function to display Inventory
