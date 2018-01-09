@@ -12,6 +12,6 @@ Bamazon is an node application that uses a Mysql database.
   
   #NPM packages needed!
   
-  1)npm install mysql
+  1) npm install mysql
   
   2) npm install inquirer
