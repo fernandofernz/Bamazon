@@ -10,7 +10,8 @@ Bamazon is an node application that uses a Mysql database.
   
   4)Lastly the app displays the total for the purchase and reduces the stocl_quantity on the database.
   
-  #NPM packages needed!
+  
+ NPM packages needed!
   
   1) npm install mysql
   
